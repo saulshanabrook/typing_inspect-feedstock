@@ -22,6 +22,7 @@ requirements:
     - python
     - typing >=3.6.1
     - mypy_extensions >=0.3.0
+    - typing_extensions >=3.7.4
 
 test:
   imports:
